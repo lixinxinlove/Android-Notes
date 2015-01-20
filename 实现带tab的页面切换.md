@@ -7,11 +7,18 @@
 
 https://github.com/JakeWharton/Android-ViewPagerIndicator
 
-下面以一个简单的demo来描述其使用。
+下面以一个简单的demo来描述其使用。效果图如下：
+
+![](https://raw.githubusercontent.com/dcq123/Android-Notes/master/images/tab_view.png)
+
 
 ##### 引入这个library库
 
-将下载的Android-ViewPagerIndicator项目中，导入其中的library到Eclipse中，然后在自己新创建的项目中引入这个library,然后就可以使用其中不同的Indicator，这个单词是指示器的意思，意味着使用它来指示Viewpager显示那个item view。
+将下载的Android-ViewPagerIndicator项目中，导入其中的library到Eclipse中，然后在自己新创建的项目中引入这个library,然后就可以使用其中不同的Indicator，这个单词是指示器的意思，意味着使用它来指示Viewpager显示那个item view。其中包含的不同类型的Indicator如下：
+
+![](https://raw.githubusercontent.com/dcq123/Android-Notes/master/images/indicator.png)
+
+![](https://raw.githubusercontent.com/dcq123/Android-Notes/master/images/yinyong.png)
 
 ####布局文件中使用
 
